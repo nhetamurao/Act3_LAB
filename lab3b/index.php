@@ -37,26 +37,7 @@
             </p>
         </div>
 
-        <!-- <div class="p-card">
-            <h3>Audio File</h3>
-            <p class="p-card__content">
-            <input type="file" name="Audio_file" accept=".mp3" />
-            </p>
-        </div>
-
-        <div class="p-card">
-            <h3>Image File</h3>
-            <p class="p-card__content">
-            <input type="file" name="Image_file" accept=".jpg" />
-            </p>
-        </div>
-
-        <div class="p-card">
-            <h3>Video File</h3>
-            <p class="p-card__content">
-            <input type="file" name="Video_file" accept=".mp4" />
-            </p>
-        </div> -->
+        
 
 
         <div>
