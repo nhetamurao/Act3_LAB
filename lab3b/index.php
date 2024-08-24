@@ -37,7 +37,7 @@
             </p>
         </div>
 
-        <div class="p-card">
+        <!-- <div class="p-card">
             <h3>Audio File</h3>
             <p class="p-card__content">
             <input type="file" name="Audio_file" accept=".mp3" />
@@ -56,7 +56,7 @@
             <p class="p-card__content">
             <input type="file" name="Video_file" accept=".mp4" />
             </p>
-        </div>
+        </div> -->
 
 
         <div>
