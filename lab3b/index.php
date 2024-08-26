@@ -32,31 +32,17 @@
         <div class="p-card">
             <h3>PDF File</h3>
             <p class="p-card__content">
-            <input type="file" name="pdf_file" accept=".pdf" /> <!-- Corrected name -->
-            </p>
+            <input type="file" name="pdf_file" accept=".pdf" />
         </div>
-
+       
         <div class="p-card">
             <h3>Audio File</h3>
             <p class="p-card__content">
-            <input type="file" name="audio_file" accept=".mp3" /> <!-- Corrected name -->
+            <input type="file" name="audio_file" accept=".mp3" /> 
             </p>
         </div>
 
-        <div class="p-card">
-            <h3>Image File</h3>
-            <p class="p-card__content">
-            <input type="file" name="image_file" accept=".jpg,.jpeg,.png,.gif" /> <!-- Added Image file input -->
-            </p>
-        </div>
-
-        <div class="p-card">
-            <h3>Video File</h3>
-            <p class="p-card__content">
-            <input type="file" name="video_file" accept=".mp4" /> <!-- Added Video file input -->
-            </p>
-        </div>
-
+        
         <div>
             <button type="submit">
                 Upload
