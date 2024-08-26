@@ -41,7 +41,12 @@
             <input type="file" name="audio_file" accept=".mp3" /> 
             </p>
         </div>
-
+        <div class="p-card">
+            <h3>Image File</h3>
+            <p class="p-card__content">
+            <input type="file" name="image_file" accept=".jpg,.jpeg,.png,.gif" />
+            </p>
+        </div>
         
         <div>
             <button type="submit">
