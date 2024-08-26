@@ -21,7 +21,7 @@
   <div class="col">
     <h4>File Upload</h4>
 
-    <form>
+    <form action="uploaded.php" method="post" enctype="multipart/form-data">
         <div class="p-card">
             <h3>Text File</h3>
             <p class="p-card__content">
@@ -33,7 +33,7 @@
         <div class="p-card">
             <h3>PDF File</h3>
             <p class="p-card__content">
-            <input type="file" name="PDF_file" accept=".pdf" />
+            <input type="file" name="pdf_file" accept=".pdf" />
             </p>
         </div>
 
@@ -41,7 +41,7 @@
 
 
         <div>
-            <button>
+            <button type="submit">
                 Upload
             </button>
         </div>
