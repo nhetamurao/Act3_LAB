@@ -1,6 +1,6 @@
 <?php
 $upload_directory = getcwd() . '/uploads/';
-$relative_path = '/uploads/';
+$relative_path = 'uploads/';
 
 // Ensure the uploads directory exists
 if (!is_dir($upload_directory)) {
